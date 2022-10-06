@@ -1,22 +1,22 @@
 # Real-Estate-Price-Prediction
 To create a Machine Learning model to make price predictions on real estate sales in Belgium.
 
-Description
+# Description
 The project is divided into 4 major phases namely, Data Collection, Data Analysis, Training & Evaluation and lastly API Deployment.
 
   Data Collection - This phase includes data scraping from the website of a real estate company in Belgium. The data is then converted to a pandas          dataframe. The dataframe is finally converted into a .csv file. This csv file is used as input for the Data Analysis phase.
   
 
-Installation
+# Installation
 
 
-Usage
+# Usage
 This project performs web scraping using selenium. You would need to install selenium and the geckodriver to execute the program.
 https://selenium-python.readthedocs.io/installation.html#downloading-python-bindings-for-selenium/bin
 NB: On Linux, put your geckodriver (the downloaded extension) in the equivalent path on your machine into /home/<YOUR_NAME>/.local/bin/
 
 
-Requirements
+# Requirements
 The following python libraries are used in this program
   1. Requests
   2. BeautifulSoup
