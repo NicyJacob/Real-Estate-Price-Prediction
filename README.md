@@ -21,3 +21,7 @@ The following python libraries are used in this program
   1. Requests
   2. BeautifulSoup
   3. Pandas
+  
+  
+# Note
+The performance of this code can be improved by using sitemaps.
