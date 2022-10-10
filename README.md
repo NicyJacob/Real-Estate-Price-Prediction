@@ -4,7 +4,7 @@ To create a Machine Learning model to make price predictions on real estate sale
 # Description
 The project is divided into 4 major phases namely, Data Collection, Data Analysis, Training & Evaluation and lastly API Deployment.
 
-  Data Collection - This phase includes data scraping from the website of a real estate company in Belgium. The data is then converted to a pandas          dataframe. The dataframe is finally converted into a .csv file. This csv file is used as input for the Data Analysis phase.
+  Data Collection - This phase includes data scraping from the website of a real estate company in Belgium. The data is converted to a csv file using pandas dataframe. This csv file is used as input for the Data Analysis phase.
   
 
 # Installation
