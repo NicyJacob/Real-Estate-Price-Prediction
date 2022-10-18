@@ -1,3 +1,6 @@
 abc.txt
 geckodriver.log
 *.csv
+/home/becode/Desktop/becode_projects/Real-Estate-Price-Prediction/Data_Analysis/analysis - Jupyter Notebook_files
+*.html
+/home/becode/Desktop/becode_projects/Real-Estate-Price-Prediction/Data_Analysis/data/propertydata EXCEL.ods
