@@ -10,7 +10,7 @@ The project is divided into 4 major phases namely, Data Collection, Data Analysi
   
   Training & Evaluation - Data pre_processing is done in the analysis phase. Data is again checked to ensure no duplicates, no NaNs, no text data. The features with a strong correlation with price is selected. The continuous variables is normalised. The dataset is split into training and test set. Regression algorithms is used to train machine learning models. The models used are Polynomial Regresion, Random Forest Regression and Gradient Boost Regression. The error values considered for model evaluation are root-mean-square error (RMSE), Root Mean Squared Log Error(RLMSE) and r square. Based on the metrics, Gradient Boosting Regression is finally used to train the machine learning model.
   
-  Deployment - The final model is deployed locally using API and Docker. Render is used to deploy the prediction on web service. The final files is stored in House_Price_API folder. The model is available on https://house-price.onrender.com/
+  Deployment - The final model is deployed locally using API and Docker. Render is used to deploy the prediction on web service. The final files is stored in House_Price_API folder. The model is available on https://house-price.onrender.com/ (Note: A separate repository(House_Price_API) was created to deploy on Render.
 
 
 # Usage
