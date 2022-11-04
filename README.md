@@ -10,6 +10,8 @@ The project is divided into 4 major phases namely, Data Collection, Data Analysi
   
   Training & Evaluation - Data pre_processing is done in the analysis phase. Data is again checked to ensure no duplicates, no NaNs, no text data. The features with a strong correlation with price is selected. The continuous variables is normalised and the categorical data is encoded using One Hot Encoder. The dataset is split into training and test set. Regression algorithms is used to train machine learning models. The models used are Polynomial Regression, Random Forest Regression and Gradient Boost Regression. The error values considered for model evaluation are root-mean-square error (RMSE), Root Mean Squared Log Error(RLMSE) and r square. Based on the metrics, Gradient Boosting Regression is finally used to train the machine learning model.
   
+  Deployment - 
+  
 
 # Installation
 
