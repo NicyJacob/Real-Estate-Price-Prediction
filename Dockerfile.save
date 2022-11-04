@@ -1,0 +1,8 @@
+FROM python:3.7
+
+RUN pip3 install joblib
+
+COPY prediction.py ./prediction.py
+COPY app_price.py ./app_price.py
+COPY avg_sal_zipcodes.csv ./
+/home/becode/Desktop/becode_projects/Real-Estate-Price-Prediction/Deployment/avg_sal _zipcodes.csv
